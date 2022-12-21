@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HandleErrorsWithCleanArchApp</string>
+    <string name="not_authenticated">Not authenticated.</string>
+    <string name="blank_email">Email is blank.</string>
+    <string name="invalid_email">Not a valid email.</string>
+    <string name="authenticated">You are authenticated! Yey!</string>
+</resources>
